@@ -1,0 +1,12 @@
+C 3
+I ingo.ppm
+T 1 2 3 4 5 6 7 8 0
+S d
+S r 
+S r
+S d
+S l
+S u
+W ingo_scrambled_3_test08.ppm ingo_scrambled_3_test08.txt
+V
+Q

@@ -1,0 +1,9 @@
+C 4
+T 1 2 3 4 5 6 7 8 9 10 11 12 13 14 0 15
+I SP2_Aryll.ppm
+W test03Unsolved.ppm test03Unsolved.txt
+K
+S l
+W test03Solved.ppm test03Solved.txt
+K
+Q

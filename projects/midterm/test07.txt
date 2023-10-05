@@ -1,0 +1,7 @@
+C 4
+T 5 7 1 2 0 9 3 4 13 8 6 11 14 15 10 12
+I ingo.ppm
+W ingo_scrambled_test07.ppm ingo_scrambled_test07.txt
+S u
+W ingo_S_up_test07.ppm ingo_S_up_test07.txt
+Q

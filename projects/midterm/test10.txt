@@ -1,0 +1,15 @@
+C 3
+T 5 8 2 7 1 3 4 6 0
+I aster_one.ppm
+W aster_one_scrambled_test10.ppm aster_one_scrambled_test10.txt
+S d
+S r
+S u
+S r
+S d
+S l
+S d
+S r
+S u
+P
+Q

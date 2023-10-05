@@ -1,0 +1,33 @@
+C 4
+T 5 7 1 2 0 9 3 4 13 8 6 11 14 15 10 12
+I ingo.ppm
+W ingo_scrambled_test06.ppm ingo_scrambled_test06.txt
+S l
+S u
+S l
+S l
+S r
+S d
+S r
+S d
+S l
+S l
+S u
+S r
+S u
+S u
+S r
+S r
+S d
+S d
+S d
+S l
+S l
+S u
+S r
+S u
+S l
+S l
+S u
+W ingo_solved_test06.ppm ingo_solved_test06.txt
+Q

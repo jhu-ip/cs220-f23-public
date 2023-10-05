@@ -1,0 +1,5 @@
+C 4
+T 12 1 2 15 11 6 5 8 7 10 9 4 0 13 14 3
+I SP2_Aryll.ppm
+W test01.ppm test01Puzzle.txt
+Q

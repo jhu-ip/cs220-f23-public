@@ -1,0 +1,55 @@
+C 4
+T 12 1 2 15 11 6 5 8 7 10 9 4 0 13 14 3
+I ingo.ppm
+W test04.ppm test04PuzzleOrig.txt
+S l
+S d
+S d
+S l
+S l
+S u
+S u
+S r
+S r
+S d
+S d
+S r
+S d
+S l
+S l
+S u
+S r
+S r
+S u
+S l
+S l
+S d
+S l
+S d
+S r
+S u
+S r
+S r
+S u
+S l
+S l
+S l
+S d
+S r
+S u
+S r
+S u
+S l
+S l
+S d
+S d
+S d
+S r
+S u
+S r
+S u
+S u
+S l
+S l
+W test04Solved.ppm test04PuzzleSolved.txt
+Q

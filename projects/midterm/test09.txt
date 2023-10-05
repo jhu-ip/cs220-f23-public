@@ -1,0 +1,12 @@
+C 3
+I ingo.ppm
+T 2 4 3 1 0 5 7 8 6
+S d
+S r
+S u
+S l
+S l
+S u
+K
+W ingo_solved_3_test09.ppm ingo_solved_3_test09.txt
+Q
