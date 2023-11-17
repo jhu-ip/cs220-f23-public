@@ -1,0 +1,7 @@
+Plot -4.0 -12.0 4.0 12.0 640 480
+Function fn1 ( - ( * x x ) 8.0 )
+Function fn2 ( * 9.6 ( sin ( * x 2.3 ) ) )
+FillAbove fn1 0.55 31 58 117
+FillBetween fn1 fn2 0.12 118 222 108
+Color fn2 135 223 57
+Color fn1 65 7 113

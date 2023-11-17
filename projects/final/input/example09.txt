@@ -1,0 +1,6 @@
+Plot -1.0 -4.3 1.0 4.3 640 480
+Function fn1 ( * pi x )
+Function fn2 ( * pi ( sin ( * ( * 2 pi x ) ) ) )
+Color fn1 90 96 218
+Color fn2 31 148 95
+FillBetween fn1 fn2 0.53 51 18 122

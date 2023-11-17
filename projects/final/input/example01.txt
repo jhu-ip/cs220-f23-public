@@ -1,0 +1,3 @@
+Plot 0 -1.5 10 1.5 640 480
+Function fn1 ( sin x )
+Color fn1 119 36 245

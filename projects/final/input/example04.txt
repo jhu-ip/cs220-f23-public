@@ -1,0 +1,6 @@
+Plot 0 -2.5 40 2.5 640 480
+Function fn1 ( sin x )
+Function fn2 ( * 1.6 ( cos x ) )
+Color fn1 100 100 255
+Color fn2 100 255 100
+FillBetween fn1 fn2 0.4 128 0 200

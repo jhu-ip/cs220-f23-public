@@ -1,0 +1,10 @@
+Plot 0 -4 20 4 640 480
+Function fn1 ( + 2.0 ( * 0.8 ( sin x ) ) )
+Function fn2 ( + .75 ( * 0.8 ( sin ( - x .66 ) ) ) )
+Function fn3 ( - ( * 0.8 ( sin ( - x 1.33 ) ) ) 0.25 )
+Color fn1 128 128 240
+Color fn2 128 128 240
+Color fn3 128 128 240
+FillBelow fn3 0.6 48 48 150
+FillBelow fn2 0.6 48 48 150
+FillBelow fn1 0.6 48 48 150
